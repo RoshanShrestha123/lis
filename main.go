@@ -13,7 +13,7 @@ func main() {
 	}
 
 	for _, value := range dir {
-		fmt.Println(value)
+		fmt.Println(value.Name())
 	}
 
 }
