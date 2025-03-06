@@ -3,6 +3,8 @@
 (just practice project)
 Lis is a simple alternative to the `ls` command-line tool, written in Go. It lists files and directories in the current directory along with their sizes and permissions, using a tabular format with color coding.
 
+![demo](demo.png)
+
 ## Features
 
 - Displays file and directory names
